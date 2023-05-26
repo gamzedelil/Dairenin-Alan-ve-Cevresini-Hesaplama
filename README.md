@@ -26,8 +26,6 @@ class Main {
          alan = input.nextDouble();
         cevre = input.nextDouble();
         formul = input.nextDouble();
-        
-    }
-}
+       
     }
 }
